@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+pytorch-lightning==1.4.0
+pytorch-lightning-bolts
+Pillow
+tqdm
+wandb
+einops
