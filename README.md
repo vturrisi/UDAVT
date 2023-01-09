@@ -26,4 +26,4 @@ All training scripts are contained in the `bash` folder.
 
 
 # NEC-Drone data.
-The cropped NEC-Drone dataset is available for download from [Google Drive](https://drive.google.com/file/d/1C9vkOUaKr1EthHp8VPGDpCxrx8IgTKr2/view?usp=sharing)
+The cropped NEC-Drone dataset is available for download from [Google Drive](https://drive.google.com/file/d/1C9vkOUaKr1EthHp8VPGDpCxrx8IgTKr2/view?usp=sharing).
