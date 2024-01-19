@@ -5,12 +5,6 @@ This is the official repository for the paper:
 > [Victor G. Turrisi da Costa*](https://scholar.google.com/citations?user=UQctXiEAAAAJ&hl=en&oi=ao), [Giacomo Zara](https://scholar.google.com/citations?user=KvwYqUUAAAAJ&hl=en), [Paolo Rota](https://scholar.google.com/citations?user=K1goGQ4AAAAJ&hl=en), [Thiago Oliveira-Santos](https://scholar.google.com/citations?user=i3R7j_8AAAAJ&hl=en), [Nicu Sebe](https://scholar.google.com/citations?user=tNtjSewAAAAJ&hl=en), [Vittorio Murino](https://scholar.google.com/citations?user=yV3_PTkAAAAJ&hl=en), [Elisa Ricci](https://scholar.google.com/citations?user=xf1T870AAAAJ&hl=en), <br>
 > **ICPR 2022 (Oral)**
 
----
-
-### Better README/documentation will be available soon. Nonetheless, the repository is self-contained and all configs for the experiments are available.
-
----
-
 ### Installation
 
 You can install the required libraries using conda:
